@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Myworld",
+"productVersion": "0.1",
+"dataUrl": "dabao.data.unityweb",
+"wasmCodeUrl": "dabao.wasm.code.unityweb",
+"wasmFrameworkUrl": "dabao.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1c1"
+}
